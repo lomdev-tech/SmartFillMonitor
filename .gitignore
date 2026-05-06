@@ -1,0 +1,29 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build outputs
+[Dd]ebug/
+[Rr]elease/
+bin/
+obj/
+
+# NuGet
+*.nupkg
+**/[Pp]ackages/*
+
+# Runtime data
+*.db
+*.db-shm
+*.db-wal
+Logs/
+
+# Publish profiles
+**/PublishProfiles/
+
+# OS files
+Thumbs.db
+.DS_Store
